@@ -1,0 +1,82 @@
+,ruleid,rule,upi,fresp,code_nb,code_jpf,resolved_code,neil notes
+1,1,There is a red,guldlbnobg,a certain number of how many colors there are,vague,overspecific,NA,this one really seems vague to me
+2,1,There is a red,xbrfrfvylp,red is going to be big and blue is going to be medium and green is going to be small,vague,overspecific,NA,"its kinda ungrammatical/ambiguous but I'd be happy to interpret this as, 'there is a a large rd a medium blue and a small green', hence 'overspecific'"
+3,2,all are the same size,jafwjckfvc,there has to be two of the same color and the same size and one of a different color and the same size,overspecific,different,NA,"I interpreted this as enforcing the ""all the same size"" principle because it reads as if they're asserting there's only those three objects. But a little ambiguous"
+4,2,all are the same size,yrwbanxlsw,they all have to be similar to the example,vague,no rule,NA,"I think vague, I reserved no rule for when they said nothing or said ""I have no idea"" or something."
+5,2,all are the same size,arybnplgmd,they each have to be separate but next to each other in some way,vague,no rule,NA,"I think vague, I reserved no rule for when they said nothing or said ""I have no idea"" or something."
+6,2,all are the same size,mkzkmzxgrf,you have to use a lot of the larger ones,different,vague,NA,agree vague
+7,2,all are the same size,rxnythfslb,they all have to be different some are sideways and some are straight up,different,vague,NA,agree vague
+8,2,all are the same size,djldhhbvei,there needs to be three big ones,overliberal,different,NA,agree different
+9,2,all are the same size,alyxzksgke,three blocks of the same size,overspecific,overliberal,NA,"turns on if they mean ""there is exactly three"" (i.e. no other blocks) or if there could be more. But if the latter, I think its ""different"" not overliberal…"
+10,2,all are the same size,guldlbnobg,how many are completely standing up,vague,no rule,NA,"I think vague, I reserved no rule for when they said nothing or said ""I have no idea"" or something."
+11,2,all are the same size,tdozurlsah,none of them should be facing out,different,vague,NA,agree vague
+12,2,all are the same size,yxvfdkoyfy,you can do it however you can and you can still make it into a pattern,vague,no rule,NA,"I think vague, I reserved no rule for when they said nothing or said ""I have no idea"" or something."
+13,2,all are the same size,xbrfrfvylp,they all have to be in the same side or same shape,different,overspecific,NA,I think different
+14,3,Nothing is upright,yjheaxptzh,one block has to be leaning,different,overliberal,NA,"I think different because leaning implies non-upright but also touching a wall or something else, which seems distinct"
+15,3,Nothing is upright,hqdzvryszc,they have to be pointing sideways either way but not up and down,correct,overspecific,NA,"agree overspecific, rules out ""strange"" orientations"
+16,3,Nothing is upright,mkzkmzxgrf,you have to use some of the larger red ones but they cannot be on top of each other,different,vague,NA,agree vague
+17,3,Nothing is upright,rxnythfslb,they should be different,different,vague,NA,agree vague
+18,3,Nothing is upright,hxdomhiend,there is not much stacking,different,vague,NA,agree vague
+19,3,Nothing is upright,ciwzlkkruo,pretty close together,different,vague,NA,agee vague
+20,3,Nothing is upright,yxvfdkoyfy,you can do any structure you can do whatever you want,different,no rule,NA,"I think this is overliberal actually, this rule asserts the tautology (i.e. all scenes emit stars), which is overliberal wrt to the true rule"
+21,3,Nothing is upright,jfzfqqzvmb,they have to be connected like three or two of them,different,vague,NA,agree vague
+22,4,One is blue,mesbxrjdpg,there has to be one of each type,overspecific,different,NA,"I think overspecific if taken literally and assuming a type is a size+colour combo, because if there's one of each then there's one small blue"
+23,4,One is blue,zwrcdrrtwi,there has at be at least one little blue triangle,different,overliberal,NA,"I think this is different because there's two changes (+small, -exactly 1)"
+24,4,One is blue,hibacpjdfh,they cannot all be standing up they have to be all slanted and they have to all be different colors,different,overspecific,NA,"it doesn't specify that there's exactly 1, so again, multiple differences so neither necessary nor sufficient"
+25,4,One is blue,ovngoiiqro,you have to have all three colors,different,vague,NA,I think different because its definitely codable in the language (so not vague)
+26,4,One is blue,jafwjckfvc,there has to be a blue block,overliberal,correct,NA,"could go either way, they didn't say ""exactly one"" but reads like they might have meant that…."
+27,4,One is blue,yjheaxptzh,there can only be one block leaning,overliberal,different,NA,agree different
+28,4,One is blue,lwtvybinkx,it does not matter what size but they have to be three different colors and two have to be leaning against each other and one has to be on the other side,overspecific,different,NA,agree different
+29,4,One is blue,mkzkmzxgrf,most of them have to be standing up,different,vague,NA,"agree vague (at least we don't have the logical machinary to express "">half upright"", so more like ""outside grammar"" but that's not a category"
+30,4,One is blue,ywlzebnwkb,to put them apart from each other in a different way,different,vague,NA,agree vague
+31,4,One is blue,guldlbnobg,color    ,vague,no rule,NA,agree no rule
+32,4,One is blue,ojeosgkrxi,all of them can be random,different,no rule,NA,"I think different because I think they're expressing the ""anything goes"" tautology rule."
+33,4,One is blue,asqvqojvif,you always need a blue red and green colored block,overliberal,overspecific,NA,"I guess its different actually, they don't specify the ""exactly 1"" but also add the red and green so neither necessary nor sufficient again"
+34,4,One is blue,aslbalavqe,you cannot use the same color of blocks twice,overliberal,different,NA,agree different
+35,5,There is a small blue,mesbxrjdpg,there has to be at least one green and one blue,overliberal,different,NA,agree different
+36,5,There is a small blue,jafwjckfvc,a blue block has to be at least partially covered,overliberal,different,NA,agree different
+37,5,There is a small blue,veyjvlxish,they have to be next to each other or on top of each other,different,vague,NA,agree vague
+38,5,There is a small blue,zmtqpimofq,one smaller than the one you used I think you need to have a small one at the corner or only use green and blue,different,overliberal,NA,"uhhh, vague maybe actually?"
+39,5,There is a small blue,guldlbnobg,there is patterns for each one,different,no rule,NA,how about vague?
+40,5,There is a small blue,tdozurlsah,there sometimes needs to be one that is opened,different,vague,NA,agree vague
+41,1,There is a red,oozefhavib,I think if there is a figure inside the red figure stars will come out,overspecific,correct,NA,I think overspecific
+42,1,There is a red,toafksdbom,There has to be at least one kova of any size. ,overliberal,different,NA,I think overliberal because I interpret this rule as just asserting that there is at least one object
+43,1,There is a red,xcmvwgxolf,there needs to be one red piece,correct,overspecific,NA,agree overspecific on the quantifier
+44,1,There is a red,rdsmyidehb,Make your designs lay on the ground as neatly as you can to keep the stars from coming out.,overliberal,no rule,NA,how about vague?
+45,2,All are the same size,cvtwudraqm,When there are i cone from each color of the same size,overspecific,different,NA,how about vague?
+46,2,All are the same size,kgbijmrczj,"As long as there is a box of one color, it seems the stars will come out.",overliberal,different,NA,how about vague?
+47,2,All are the same size,ueeodbekmp,There must be one block of the same size of two different colors. One of the matching blocks must not be inside another block. ,overspecific,different,NA,agree different
+48,2,All are the same size,pcebewminm,"when all are small block
+when there is two blue block",multiple,different,NA,I think multiple because they wrote the statemetns on different lines
+49,2,All are the same size,mikejpbltc,"I think only the largest of the bemmies will make the stars shoot out, as long as you all the largest ones are in there it will go off",different,vague,NA,agree vague
+50,3,Nothing is upright,cbkluyqyam,the block must touch at least one other block and must not be standing upright.,different,overspecific,NA,I think different because doesn't state that all ovjects are nonupright
+51,3,Nothing is upright,bhdujwkcbn,A large red on its side,overspecific,different,NA,"depends if they mean ""only a large red on its side"", could go either way, you choose!"
+52,3,Nothing is upright,gfskfcekgs,I believe the rule is no object is pointing up or overlapping,overspecific,overliberal,NA,I think overspecific
+53,3,Nothing is upright,pcebewminm,"when there is only red block
+when there is no blue block",multiple,different,NA,"multiple (or else we remove multiple category and think of this as implying an ""or""….)"
+54,3,Nothing is upright,aezlpkseyg,I dont know. three triangles with two propped sideways against each other and the other off to the side sideways?,overspecific,different,NA,I think overspecific because they seem to imply only those three nonupright objects…. But agree slightly ambiguous
+55,3,Nothing is upright,toafksdbom,The yok for sure cant be straight up and down. I only tested the blue so Im not sure if it applies to other colors as well. ,correct,overspecific,NA,"I think correct, the second sentence doesn't really do anything"
+56,3,Nothing is upright,rlthgmsegt,It seemed like the yoks had to be on their sides for the stars to come out.,overliberal,correct,NA,"I'm inclined to go with you on these (since its not at all clear that there's another orientation than upright and on side),so correct?"
+57,3,Nothing is upright,wxghchdwtc,All of the yoks had to be tilted onto their side regardless of size or color. ,overliberal,correct,NA,correct?
+58,3,Nothing is upright,zblqdccjyg,"All Bemmies are laying down, not upright and standing. ",correct,overspecific,NA,correct?
+59,3,Nothing is upright,zvqbvbzaox,all triangles have to be on their side,overliberal,correct,NA,I don't know why I was selecting overliberal instead of overspecific… inclined to correct
+60,3,Nothing is upright,rdsmyidehb,"This is difficult, do your best to make the triangles fall on their sides to make the stars come out.",overliberal,correct,NA,"the do your best bit made me think they just think that some need to be on side not all…. Maybe ""vague""?"
+61,4,One is blue,bhdujwkcbn,Need one of each color to be present,overspecific,different,NA,I think overspecific
+62,4,One is blue,pvydutloyc,There must be one blue kovas. There cannot be more than one.,correct,overspecific,NA,"correct I tink, second sentence just clarifies the first (I.e. pertains to the blues not the blocks in general)"
+63,4,One is blue,diwvecfaqr,must be touching or not touching of a different color,vague,different,NA,a different colour than what? I think vague
+64,4,One is blue,ueeodbekmp,A Tig must include one block of each different color and at lest two different sizes. ,overspecific,different,NA,"I still think overspecific since implies 1 blue, but also other stuff"
+65,4,One is blue,qqvfwssvmb,there must be one block of each color.,overspecific,different,NA,"I think overspecific since implies 1 blue, but also other stuff"
+66,4,One is blue,pcebewminm,when there is  different type of size in all color,vague,different,NA,"I can't parse it, so vague?"
+67,4,One is blue,hccfdfsuum,different colors ,vague,different,NA,vague?
+68,4,One is blue,zbggjxcvuu,some up and some are sideways,different,vague,NA,"well its possible to express, i.e. exists something upright and exists something not upright. So different?"
+69,4,One is blue,hxgoohdfvi,"I think that bennies shoot stars out of them as long as a block of each color (one red, one green, one blue) is used no matter what size or how they are placed.",overspecific,different,NA,I think overspecific as above
+70,4,One is blue,rlthgmsegt,"I could not really tell for this one. The triangles that included blue or red always seemed to have stars come out , but I am not 100% sure.",different,overliberal,NA,how about vague? Or no rule? You decide!
+71,4,One is blue,mikejpbltc,As long as you have at least one blue tig but no more then 2 blue tigs then the stars will come out. ,correct,overliberal,NA,I think correct because second sentence is redundant / doesn't change the meaning.
+72,5,There is a small blue,pcebewminm,"when there is one small blue block
+when there is two green and two red
+when there is no green",multiple,overliberal,NA,I think multiple because of use of multiple lines
+73,5,There is a small blue,psbaqbrwjt,"All the green blocks are as big or bigger than the blue blocks, with at least one blue block",different,overliberal,NA,"hmmm, depends if ""all the green blocks"" implies their existence, but maybe not, so sure, overliberal."
+74,5,There is a small blue,hccfdfsuum,All blocks should be small,overliberal,different,NA,"agree different, doesn't say there's a blue"
+75,5,There is a small blue,rlthgmsegt,"It was hard to say , but I think if I included medium or smaller sized items, stars would come out. All large seemed to not work.",vague,overliberal,NA,"hard to parse, shall we say vague?"
+76,5,There is a small blue,rdsmyidehb,"The crazier the design, the better your chances.",vague,no rule,NA,agree no rule
+77,1,There is a red,qcgxizxcem,A red block must be being touched by another block.,overspecific,different,NA,"I think this is overspecific, agree?"
