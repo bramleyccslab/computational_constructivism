@@ -10,8 +10,8 @@
 - data_fresps_disagreements_resolved.csv
 - results_processed.rdata
 
-![](./examples/p10_child_yjheaxptzh_r2 "Child facing rule 2: All are the same size")
-![](./examples/p10_child_yjheaxptzh_r2 "Adult facing rule 2: One is blue")
+![](./examples/p10_child_yjheaxptzh_r2.png "Child facing rule 2: All are the same size")
+![](./examples/p10_child_yjheaxptzh_r2.png "Adult facing rule 2: One is blue")
 
 ## Experiment
 
