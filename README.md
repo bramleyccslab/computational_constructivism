@@ -2,6 +2,5 @@
 
 ## Links to the task
 
-[Children's version](https://eco.ppls.ed.ac.uk/~nbramley/zendo_kids/task.html)
-
-[Adults' version](https://eco.ppls.ed.ac.uk/~nbramley/zendo_kas/task.html)
+- [Demo of adults' version of task](https://eco.ppls.ed.ac.uk/~nbramley/zendo_kas/demo.html)
+- [Children's version](https://eco.ppls.ed.ac.uk/~nbramley/zendo_kids/task.html)
