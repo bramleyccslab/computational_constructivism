@@ -12,7 +12,7 @@
 
 ## Examples
 
-### Child facing rule 2: 
+### Child facing rule 2: "All are the same size"
 <img src="https://github.com/bramleyccslab/computational_constructivism/blob/161520ea8421765034e4aa2f7dad8b377e8f1179/examples/p10_child_yjheaxptzh_r2.png" width="500">
 
 ### Adult facing rule 2: "One is blue"
