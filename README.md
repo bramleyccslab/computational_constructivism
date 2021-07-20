@@ -10,7 +10,7 @@
 - data_fresps_disagreements_resolved.csv
 - results_processed.rdata
 
-![](./examples/p10_child_yjheaxptzh_r2.png "Child facing rule 2: All are the same size")
+![](https://github.com/bramleyccslab/computational_constructivism/blob/69f62be00d920151bacb28efa71a764357241ebb/examples/p10_child_yjheaxptzh_r2.pdf "Child facing rule 2: All are the same size")
 ![](./examples/p10_child_yjheaxptzh_r2.png "Adult facing rule 2: One is blue")
 
 ## Experiment
