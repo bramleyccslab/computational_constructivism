@@ -10,7 +10,7 @@
 - data_fresps_disagreements_resolved.csv
 - results_processed.rdata
 
-![](https://github.com/bramleyccslab/computational_constructivism/blob/161520ea8421765034e4aa2f7dad8b377e8f1179/examples/p10_child_yjheaxptzh_r2.png "Child facing rule 2: All are the same size")
+![](https://github.com/bramleyccslab/computational_constructivism/blob/161520ea8421765034e4aa2f7dad8b377e8f1179/examples/p10_child_yjheaxptzh_r2.png "Child facing rule 2: All are the same size" | width=100)
 ![](https://github.com/bramleyccslab/computational_constructivism/blob/161520ea8421765034e4aa2f7dad8b377e8f1179/examples/p75_adult_wsuhwfjzbr_r4.png "Adult facing rule 2: One is blue")
 
 ## Experiment
